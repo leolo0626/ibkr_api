@@ -1,1 +1,2 @@
 ib_insync
+slackclient==2.9.4
